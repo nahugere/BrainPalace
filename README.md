@@ -7,7 +7,7 @@ Brain Palace is an interactive learning app, built entirely with Swift, that com
 
 This method is implemented by creating three stacks: `Hard`, `Good`, and `Easy`. Initially, all flashcards are placed on the `Hard` stack. As the user revises, flashcards move between stacks based on how difficult they are for the user to recall. Those difficult to recall are placed on the `Hard` stack, those recalled successfully but might need more revision are placed on the `Good` stack, and those that were very easy to recall are placed on the `Easy` stack. The revision algorithm prioritizes the `Hard` stack, followed by the `Good` stack. Revision continues until all flashcards are on the `Easy` stack.
 
-![Demo GIF](https://github.com/nahugere/BrainPalace/blob/72a418146c1e5cfa0857504c4168add5a1fe70e1/demo/revisedemo.gif))
+![Demo GIF](https://github.com/nahugere/BrainPalace/blob/72a418146c1e5cfa0857504c4168add5a1fe70e1/demo/revisedemo.gif)
 
 
 ## Memory palace
