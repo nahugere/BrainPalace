@@ -18,4 +18,4 @@ This method uses AR to place a flashcard in a physical space. Users can seamless
 ## Demo instructions
 To run the demo locally:
 1. Install [Swift Playgrounds](https://apps.apple.com/us/app/swift-playgrounds/id908519492) app from the App store.
-2. Open the swift package there, and press the play button to run.
+2. Open the `Brain Palace.swiftpm` on Swift Playgrounds, and press the tap button to run.
